@@ -1,0 +1,2 @@
+    Lista de Exercicios - Curso em Video
+01 - Crie um programa que escreva "Olá Mundo!" na tela
