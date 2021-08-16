@@ -1,4 +1,4 @@
-# Desafio 005 - Faça um programa que um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+# Desafio 005 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 numero = int (input('\n Digite um número inteiro: '))
 antecessor = numero - 1
 sucessor = numero + 1
